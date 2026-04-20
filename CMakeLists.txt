@@ -1,0 +1,8 @@
+add_subdirectory(Core)
+add_subdirectory(Dma)
+add_subdirectory(Exti)
+add_subdirectory(Gpio)
+add_subdirectory(Nvic)
+add_subdirectory(Rcc)
+add_subdirectory(Tim)
+add_subdirectory(Usart)
