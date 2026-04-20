@@ -1,0 +1,30 @@
+[submodule "Core"]
+	path = Core
+	url = https://github.com/Embedbits/Bsp-Mcal-Core.git
+[submodule "Crc"]
+	path = Crc
+	url = https://github.com/Embedbits/Bsp-Mcal-Crc.git
+[submodule "Exti"]
+	path = Exti
+	url = https://github.com/Embedbits/Bsp-Mcal-Exti.git
+[submodule "Gpdma"]
+	path = Gpdma
+	url = https://github.com/Embedbits/Bsp-Mcal-Gpdma.git
+[submodule "Gpio"]
+	path = Gpio
+	url = https://github.com/Embedbits/Bsp-Mcal-Gpio.git
+[submodule "Nvic"]
+	path = Nvic
+	url = https://github.com/Embedbits/Bsp-Mcal-Nvic.git
+[submodule "Rcc"]
+	path = Rcc
+	url = https://github.com/Embedbits/Bsp-Mcal-Rcc.git
+[submodule "Rng"]
+	path = Rng
+	url = https://github.com/Embedbits/Bsp-Mcal-Rng.git
+[submodule "Tim"]
+	path = Tim
+	url = https://github.com/Embedbits/Bsp-Mcal-Tim.git
+[submodule "Usart"]
+	path = Usart
+	url = https://github.com/Embedbits/Bsp-Mcal-Usart.git
