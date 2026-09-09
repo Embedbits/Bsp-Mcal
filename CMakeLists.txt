@@ -1,0 +1,10 @@
+# BEGIN AUTO-GENERATED SUBMODULES (managed by mcal-link.sh - do not edit this block by hand)
+add_subdirectory(Core)
+add_subdirectory(Dma)
+add_subdirectory(Exti)
+add_subdirectory(Gpio)
+add_subdirectory(Nvic)
+add_subdirectory(Rcc)
+add_subdirectory(Tim)
+add_subdirectory(Usart)
+# END AUTO-GENERATED SUBMODULES
