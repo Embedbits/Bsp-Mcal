@@ -10,3 +10,6 @@
 [submodule "Gpdma"]
 	path = Gpdma
 	url = https://github.com/Embedbits/Bsp-Mcal-Gpdma.git
+[submodule "Nvic"]
+	path = Nvic
+	url = https://github.com/Embedbits/Bsp-Mcal-Nvic.git
