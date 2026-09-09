@@ -4,3 +4,9 @@
 [submodule "Gpio"]
 	path = Gpio
 	url = https://github.com/Embedbits/Bsp-Mcal-Gpio.git
+[submodule "Exti"]
+	path = Exti
+	url = https://github.com/Embedbits/Bsp-Mcal-Exti.git
+[submodule "Gpdma"]
+	path = Gpdma
+	url = https://github.com/Embedbits/Bsp-Mcal-Gpdma.git
