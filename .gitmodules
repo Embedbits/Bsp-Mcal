@@ -1,0 +1,6 @@
+[submodule "Rcc"]
+	path = Rcc
+	url = https://github.com/Embedbits/Bsp-Mcal-Rcc.git
+[submodule "Gpio"]
+	path = Gpio
+	url = https://github.com/Embedbits/Bsp-Mcal-Gpio.git
