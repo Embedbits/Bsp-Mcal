@@ -13,3 +13,15 @@
 [submodule "Nvic"]
 	path = Nvic
 	url = https://github.com/Embedbits/Bsp-Mcal-Nvic.git
+[submodule "Usart"]
+	path = Usart
+	url = https://github.com/Embedbits/Bsp-Mcal-Usart.git
+[submodule "Iwdg"]
+	path = Iwdg
+	url = https://github.com/Embedbits/Bsp-Mcal-Iwdg.git
+[submodule "Adc"]
+	path = Adc
+	url = https://github.com/Embedbits/Bsp-Mcal-Adc.git
+[submodule "I2c"]
+	path = I2c
+	url = https://github.com/Embedbits/Bsp-Mcal-I2c.git
