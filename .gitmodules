@@ -25,3 +25,6 @@
 [submodule "I2c"]
 	path = I2c
 	url = https://github.com/Embedbits/Bsp-Mcal-I2c.git
+[submodule "Tim"]
+	path = Tim
+	url = https://github.com/Embedbits/Bsp-Mcal-Tim.git
