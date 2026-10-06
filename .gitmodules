@@ -28,3 +28,18 @@
 [submodule "Tim"]
 	path = Tim
 	url = https://github.com/Embedbits/Bsp-Mcal-Tim.git
+[submodule "Dac"]
+	path = Dac
+	url = https://github.com/Embedbits/Bsp-Mcal-Dac.git
+[submodule "Spi"]
+	path = Spi
+	url = https://github.com/Embedbits/Bsp-Mcal-Spi.git
+[submodule "Crc"]
+	path = Crc
+	url = https://github.com/Embedbits/Bsp-Mcal-Crc.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/Embedbits/Bsp-Mcal-Core.git
+[submodule "Rng"]
+	path = Rng
+	url = https://github.com/Embedbits/Bsp-Mcal-Rng.git
