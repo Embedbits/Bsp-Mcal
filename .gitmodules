@@ -28,3 +28,21 @@
 [submodule "Rng"]
 	path = Rng
 	url = https://github.com/Embedbits/Bsp-Mcal-Rng.git
+[submodule "Dac"]
+	path = Dac
+	url = https://github.com/Embedbits/Bsp-Mcal-Dac.git
+[submodule "Spi"]
+	path = Spi
+	url = https://github.com/Embedbits/Bsp-Mcal-Spi.git
+[submodule "Iwdg"]
+	path = Iwdg
+	url = https://github.com/Embedbits/Bsp-Mcal-Iwdg.git
+[submodule "Dma2D"]
+	path = Dma2D
+	url = https://github.com/Embedbits/Bsp-Mcal-Dma2D.git
+[submodule "Adc"]
+	path = Adc
+	url = https://github.com/Embedbits/Bsp-Mcal-Adc.git
+[submodule "I2c"]
+	path = I2c
+	url = https://github.com/Embedbits/Bsp-Mcal-I2c.git
