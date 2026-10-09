@@ -43,3 +43,12 @@
 [submodule "Rng"]
 	path = Rng
 	url = https://github.com/Embedbits/Bsp-Mcal-Rng.git
+[submodule "Usb"]
+	path = Usb
+	url = https://github.com/Embedbits/Bsp-Mcal-Usb.git
+[submodule "Flash"]
+	path = Flash
+	url = https://github.com/Embedbits/Bsp-Mcal-Flash.git
+[submodule "Cache"]
+	path = Cache
+	url = https://github.com/Embedbits/Bsp-Mcal-Cache.git
