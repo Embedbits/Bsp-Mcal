@@ -52,3 +52,108 @@
 [submodule "Cache"]
 	path = Cache
 	url = https://github.com/Embedbits/Bsp-Mcal-Cache.git
+[submodule "Tamp"]
+	path = Tamp
+	url = https://github.com/Embedbits/Bsp-Mcal-Tamp.git
+[submodule "Sai"]
+	path = Sai
+	url = https://github.com/Embedbits/Bsp-Mcal-Sai.git
+[submodule "Eth"]
+	path = Eth
+	url = https://github.com/Embedbits/Bsp-Mcal-Eth.git
+[submodule "Ltdc"]
+	path = Ltdc
+	url = https://github.com/Embedbits/Bsp-Mcal-Ltdc.git
+[submodule "RamCfg"]
+	path = RamCfg
+	url = https://github.com/Embedbits/Bsp-Mcal-RamCfg.git
+[submodule "Sdmmc"]
+	path = Sdmmc
+	url = https://github.com/Embedbits/Bsp-Mcal-Sdmmc.git
+[submodule "LpUsart"]
+	path = LpUsart
+	url = https://github.com/Embedbits/Bsp-Mcal-LpUsart.git
+[submodule "Sbs"]
+	path = Sbs
+	url = https://github.com/Embedbits/Bsp-Mcal-Sbs.git
+[submodule "Dts"]
+	path = Dts
+	url = https://github.com/Embedbits/Bsp-Mcal-Dts.git
+[submodule "Dcmi"]
+	path = Dcmi
+	url = https://github.com/Embedbits/Bsp-Mcal-Dcmi.git
+[submodule "Jpeg"]
+	path = Jpeg
+	url = https://github.com/Embedbits/Bsp-Mcal-Jpeg.git
+[submodule "Fmac"]
+	path = Fmac
+	url = https://github.com/Embedbits/Bsp-Mcal-Fmac.git
+[submodule "Ospi"]
+	path = Ospi
+	url = https://github.com/Embedbits/Bsp-Mcal-Ospi.git
+[submodule "Can"]
+	path = Can
+	url = https://github.com/Embedbits/Bsp-Mcal-Can.git
+[submodule "Rtc"]
+	path = Rtc
+	url = https://github.com/Embedbits/Bsp-Mcal-Rtc.git
+[submodule "VrefBuf"]
+	path = VrefBuf
+	url = https://github.com/Embedbits/Bsp-Mcal-VrefBuf.git
+[submodule "Hash"]
+	path = Hash
+	url = https://github.com/Embedbits/Bsp-Mcal-Hash.git
+[submodule "DbgMcu"]
+	path = DbgMcu
+	url = https://github.com/Embedbits/Bsp-Mcal-DbgMcu.git
+[submodule "Aes"]
+	path = Aes
+	url = https://github.com/Embedbits/Bsp-Mcal-Aes.git
+[submodule "LpTim"]
+	path = LpTim
+	url = https://github.com/Embedbits/Bsp-Mcal-LpTim.git
+[submodule "Pwr"]
+	path = Pwr
+	url = https://github.com/Embedbits/Bsp-Mcal-Pwr.git
+[submodule "Cec"]
+	path = Cec
+	url = https://github.com/Embedbits/Bsp-Mcal-Cec.git
+[submodule "Pka"]
+	path = Pka
+	url = https://github.com/Embedbits/Bsp-Mcal-Pka.git
+[submodule "Dlyb"]
+	path = Dlyb
+	url = https://github.com/Embedbits/Bsp-Mcal-Dlyb.git
+[submodule "Crs"]
+	path = Crs
+	url = https://github.com/Embedbits/Bsp-Mcal-Crs.git
+[submodule "Gtzc"]
+	path = Gtzc
+	url = https://github.com/Embedbits/Bsp-Mcal-Gtzc.git
+[submodule "Comp"]
+	path = Comp
+	url = https://github.com/Embedbits/Bsp-Mcal-Comp.git
+[submodule "Fmc"]
+	path = Fmc
+	url = https://github.com/Embedbits/Bsp-Mcal-Fmc.git
+[submodule "Mdf"]
+	path = Mdf
+	url = https://github.com/Embedbits/Bsp-Mcal-Mdf.git
+[submodule "OpAmp"]
+	path = OpAmp
+	url = https://github.com/Embedbits/Bsp-Mcal-OpAmp.git
+[submodule "I3c"]
+	path = I3c
+	url = https://github.com/Embedbits/Bsp-Mcal-I3c.git
+[submodule "Wwdg"]
+	path = Wwdg
+	url = https://github.com/Embedbits/Bsp-Mcal-Wwdg.git
+[submodule "Pssi"]
+	path = Pssi
+	url = https://github.com/Embedbits/Bsp-Mcal-Pssi.git
+[submodule "SAes"]
+	path = SAes
+	url = https://github.com/Embedbits/Bsp-Mcal-SAes.git
+[submodule "Cordic"]
+	path = Cordic
+	url = https://github.com/Embedbits/Bsp-Mcal-Cordic.git
