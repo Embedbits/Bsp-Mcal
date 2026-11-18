@@ -49,3 +49,42 @@
 [submodule "Rng"]
 	path = Rng
 	url = https://github.com/Embedbits/Bsp-Mcal-Rng.git
+[submodule "Eth"]
+	path = Eth
+	url = https://github.com/Embedbits/Bsp-Mcal-Eth.git
+[submodule "Sdmmc"]
+	path = Sdmmc
+	url = https://github.com/Embedbits/Bsp-Mcal-Sdmmc.git
+[submodule "Hsem"]
+	path = Hsem
+	url = https://github.com/Embedbits/Bsp-Mcal-Hsem.git
+[submodule "Dlyb"]
+	path = Dlyb
+	url = https://github.com/Embedbits/Bsp-Mcal-Dlyb.git
+[submodule "VrefBuf"]
+	path = VrefBuf
+	url = https://github.com/Embedbits/Bsp-Mcal-VrefBuf.git
+[submodule "Pka"]
+	path = Pka
+	url = https://github.com/Embedbits/Bsp-Mcal-Pka.git
+[submodule "Crs"]
+	path = Crs
+	url = https://github.com/Embedbits/Bsp-Mcal-Crs.git
+[submodule "OpAmp"]
+	path = OpAmp
+	url = https://github.com/Embedbits/Bsp-Mcal-OpAmp.git
+[submodule "Wwdg"]
+	path = Wwdg
+	url = https://github.com/Embedbits/Bsp-Mcal-Wwdg.git
+[submodule "Fmac"]
+	path = Fmac
+	url = https://github.com/Embedbits/Bsp-Mcal-Fmac.git
+[submodule "Hash"]
+	path = Hash
+	url = https://github.com/Embedbits/Bsp-Mcal-Hash.git
+[submodule "SAes"]
+	path = SAes
+	url = https://github.com/Embedbits/Bsp-Mcal-SAes.git
+[submodule "Cordic"]
+	path = Cordic
+	url = https://github.com/Embedbits/Bsp-Mcal-Cordic.git
